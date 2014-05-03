@@ -1,6 +1,6 @@
-Documentação do ECMAScript 6 em pt-br
+Documentação do ES6 em pt-br
 ============
-Esse projeto é apenas um pontapé inicial para que a comunidade junte-se em prol da disseminação ES6 no Brasil.
+Esse projeto é apenas um pontapé inicial para que a comunidade junte-se em prol da disseminação ECMAScript 6  no Brasil.
 
 #### Precisamos de ajuda!
 Se você ama JavaScript assim como nós e deseja colaborar com essa documentação, entre em contato e participe como colaborador *agora mesmo*.
