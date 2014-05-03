@@ -2,6 +2,8 @@ Documentação do ES6 em pt-br
 ============
 Esse projeto é apenas um pontapé inicial para que a comunidade junte-se em prol da disseminação ECMAScript 6  no Brasil.
 
+Discussões sobre a documentação serão feitas no [Gitter](https://gitter.im/ES6-br).
+
 #### Precisamos de ajuda!
 Se você ama JavaScript assim como nós e deseja colaborar com essa documentação, entre em contato e participe como colaborador *agora mesmo*.
 
@@ -13,16 +15,16 @@ Pensei em guiar a documentação baseado [nos tópicos abordados](https://github
 
 ## Proposta de sumário
 
-- Introdução: abordando mudanças básicas
+- [Introdução: abordando mudanças básicas](/topicos/introducao.md)
 - Funções
 - Objetos
 - Classes
 - Arrays
 - Iterators and Generators
-- Collections
+- Coleções
 - Proxies
 - Promises
-- Modules
+- Módulos
 - Template Strings
 - Reflection
 
@@ -31,3 +33,7 @@ Pensei em guiar a documentação baseado [nos tópicos abordados](https://github
 
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6)
 - [Traceur Compiler](https://github.com/google/traceur-compiler)
+
+## Time
+
+- [Ramon Victor](http://github.com/ramonvictor)
