@@ -16,17 +16,17 @@ Pensei em guiar a documentação baseado [nos tópicos abordados](https://github
 ## Proposta de sumário
 
 - [Introdução: abordando mudanças básicas](/topicos/introducao.md)
-- Funções
-- Objetos
-- Classes
-- Arrays
-- Iterators and Generators
-- Coleções
-- Proxies
-- Promises
-- Módulos
-- Template Strings
-- Reflection
+- [Funções](/topicos/funcoes.md)
+- [Objetos](/topicos/objetos.md)
+- [Classes](/topicos/classes.md)
+- [Arrays](/topicos/arrays.md)
+- [Iterators and Generators](/topicos/iterators-and-fenerators.md)
+- [Coleções](/topicos/colecoes.md)
+- [Proxies](/topicos/proxies.md)
+- [Promises](/topicos/promises.md)
+- [Módulos](/topicos/modulos.md)
+- [Template Strings](/topicos/template-strings.md)
+- [Reflection](/topicos/reflaction.md)
 
 
 ## Referências:
