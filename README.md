@@ -1,6 +1,6 @@
 Documentação do ES6 em pt-br
 ============
-Esse projeto é apenas um pontapé inicial para que a comunidade junte-se em prol da disseminação ECMAScript 6  no Brasil.
+Esse projeto é apenas um pontapé inicial para que a comunidade junte-se em prol da disseminação [ECMAScript 6](http://code.tutsplus.com/articles/use-ecmascript-6-today--net-31582) no Brasil.
 
 Discussões sobre a documentação serão feitas no [Gitter](https://gitter.im/ES6-br).
 
@@ -26,13 +26,27 @@ Pensei em guiar a documentação baseado [nos tópicos abordados](https://github
 - [Promises](/topicos/promises.md)
 - [Módulos](/topicos/modulos.md)
 - [Template Strings](/topicos/template-strings.md)
-- [Reflection](/topicos/reflaction.md)
+- [Reflection](/topicos/reflection.md)
 
 
 ## Referências:
 
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6)
 - [Traceur Compiler](https://github.com/google/traceur-compiler)
+
+## Contribuindo
+
+Vamos tentar deixar os commits padronizados? Vou começar commitando em inglês e na seguinte estrutura:
+`<topic>`: `<message>`. Exemplo:
+
+> readme: add team member
+
+Note que `<topic>` pode ser: readme, intro, functions, objects, arrays, etc. 
+O objetivo é mencionar o tópico que o commit tem relação.
+
+
+
+Se não concordarem com esse padrão, vamos discutir em uma issue?
 
 ## Time
 
